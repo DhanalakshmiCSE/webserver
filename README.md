@@ -32,3 +32,8 @@ Testing the webserver
 
 ## RESULT:
 The program is executed succesfully
+
+### Server side output
+![Server side output](./images/serveroutput.png)
+###Client side output
+![Server side output](./images/clientoutput.png)
